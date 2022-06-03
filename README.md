@@ -7,17 +7,17 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : FRUITY
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Carmen Sebastián Lomillo
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : En este proyecto he creado una videojuego dirigido a un publico infantil, los personajes son frutas que tienen que ir superando distinto obstaculos.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  videojuego de plataformas
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : (insertar imagen  he creado este llamativo logotipo en photoshop dando un aspecto de relieve y brillo.
 
 (insertar imágenes a resolucion de 100px alto)
 
@@ -29,7 +29,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 3/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -45,7 +45,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ### 2.1 Storyboard: 
 
 
-
+en este videojuego el jugador podra elegir su personaje y editar tanto el sonido como las canciones del mismo. en el juego como tal tendrá que superar obstáculos para llegar a su objetivo final, el carrito de la compra.
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
@@ -71,21 +71,17 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 ### Etapa 1: Ideación de proyecto
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
+en este proyecto me inspirado esteticamente en juegos infantiles y en el videojuego de mario bross.
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque el jugador debe saltar los obtaculos mejorando la concentracion y atencion 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a pueblico infantil
 
 
 
