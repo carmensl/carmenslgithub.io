@@ -21,24 +21,18 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google 
 
 **Tamaño proyecto:** 14MB 
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
-
-**Fecha** : 3/06/2022
+**Fecha** : 9/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
@@ -54,8 +48,7 @@ en este videojuego el jugador podra elegir su personaje y editar tanto el sonido
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
+![esquema de navegación](https://user-images.githubusercontent.com/106831195/172904284-4ed019cf-13dc-43ee-a93c-f8c8f5e607f6.jpg)
 
 
 
@@ -64,13 +57,14 @@ en este videojuego el jugador podra elegir su personaje y editar tanto el sonido
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+he utilizado didstintas heramientas para ofrecer al jugador una experiencia interactiva, como pueden ser, el fondo infinito, los saltos al pulsar una tecla (en este caso la barra espaciadora) y la colisión entre elementos.
+
 
 
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 en este proyecto me inspirado esteticamente en juegos infantiles y en el videojuego de mario bross.
 
 **Motivación de la propuesta** 
@@ -101,13 +95,12 @@ Este  proyecto es interesante porque el jugador debe saltar los obtaculos mejora
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+el inicio del escenario comienza unicamente la primera vez que se pulsa el boton start, al comenzar de nuevo el escenario sigue donde se habia abandonado. Por otro lado me hubiera gustado añadir los obtaculos de forma aletaoria pero finalmente no lo ha conseguido.
 
 
 
 # 4. Conclusiones 
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Me hubiera gustado añadir más obtáculos y más funciones para saltar de distintas formas u otras teclas para distinto movimientos
 
 
 
@@ -119,13 +112,23 @@ Este  proyecto es interesante porque el jugador debe saltar los obtaculos mejora
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+https://www.minijuegos.com/juego/super-mario-bros
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+
+* Imágenes: ![manzana](https://user-images.githubusercontent.com/106831195/172906392-9c5060ab-73c0-43f7-85cc-4b3ea74827e2.png)
+![naranja](https://user-images.githubusercontent.com/106831195/172906394-e9a39c39-3fbb-449b-847f-1feadb1f5e7e.png)
+![pera](https://user-images.githubusercontent.com/106831195/172906397-a45c515c-cc05-43cd-abbb-47dd6985b9be.png)
+![sandia](https://user-images.githubusercontent.com/106831195/172906398-7a657c23-4ce3-48ab-afee-259436de23a7.png)
+![sol](https://user-images.githubusercontent.com/106831195/172906400-b9e23628-0234-42ed-b038-bac4b10207eb.png)
+![charco](https://user-images.githubusercontent.com/106831195/172906405-affb1785-4765-480a-93e0-a0ff28ec9eef.png)
+![bolsa](https://user-images.githubusercontent.com/106831195/172906407-baf198cc-6307-42ec-91e0-9dc67c751f9e.png)
+![wetfloor](https://user-images.githubusercontent.com/106831195/172906410-6bf32878-2ec0-445c-afe5-3e335e581001.png)
+![fondo2](https://user-images.githubusercontent.com/106831195/172906416-5359da65-abd5-4e11-b07b-b0a73a11e982.jpg)
+ 
+* Tipografía, creada en photoshop
+* ![TEXTO PRICIPAL](https://user-images.githubusercontent.com/106831195/172906412-74251969-39e0-40ea-a476-90bdc71ee4c7.png)
 
 **Herramientas utilizadas**
 
