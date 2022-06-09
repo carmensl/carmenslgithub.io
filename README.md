@@ -1,6 +1,6 @@
 # cmi22
 
-## (Nombre del proyecto)
+## Fruity
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
