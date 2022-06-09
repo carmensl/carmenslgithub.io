@@ -75,7 +75,7 @@ Este  proyecto es interesante porque el jugador debe saltar los obtaculos mejora
 
 **Publico / audiencia**
 
-- Orientado a pueblico infantil
+- Orientado a publico infantil
 
 
 
