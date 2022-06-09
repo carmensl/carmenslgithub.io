@@ -13,7 +13,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Carmen Sebastián Lomillo
 
-**Resumen** : En este proyecto he creado una videojuego dirigido a un publico infantil, los personajes son frutas que tienen que ir superando distinto obstaculos.
+**Resumen** : En este proyecto he creado una videojuego dirigido a un público infantil, los personajes son frutas que tienen que ir superando distintos obstáculos.
 
 **Estilo/género:**  videojuego de plataformas
 
@@ -39,7 +39,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ### 2.1 Storyboard: 
 
 
-en este videojuego el jugador podra elegir su personaje y editar tanto el sonido como las canciones del mismo. en el juego como tal tendrá que superar obstáculos para llegar a su objetivo final, el carrito de la compra.
+en este videojuego el jugador podrá elegir su personaje y editar tanto el sonido como las canciones del mismo. En el juego como tal tendrá que superar obstáculos para llegar a su objetivo final, el carrito de la compra.
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
@@ -57,7 +57,7 @@ en este videojuego el jugador podra elegir su personaje y editar tanto el sonido
 
 # 3. Metodología
 
-he utilizado didstintas heramientas para ofrecer al jugador una experiencia interactiva, como pueden ser, el fondo infinito, los saltos al pulsar una tecla (en este caso la barra espaciadora) y la colisión entre elementos.
+he utilizado distintas herramientas para ofrecer al jugador una experiencia interactiva, como pueden ser, el fondo infinito, los saltos al pulsar una tecla (en este caso la barra espaciadora) y la colisión entre elementos.
 
 
 
@@ -65,17 +65,17 @@ he utilizado didstintas heramientas para ofrecer al jugador una experiencia inte
 ### Etapa 1: Ideación de proyecto
 
 **Investigación de campo** 
-en este proyecto me inspirado esteticamente en juegos infantiles y en el videojuego de mario bross.
+en este proyecto me inspirado estéticamente en juegos infantiles y en el videojuego de mario bross.
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque el jugador debe saltar los obtaculos mejorando la concentracion y atencion 
+Este  proyecto es interesante porque el jugador debe saltar los osbtáculos mejorando la concentración y atención 
 
 
 
 **Publico / audiencia**
 
-- Orientado a publico infantil
+- Orientado a público infantil
 
 
 
@@ -95,12 +95,12 @@ Este  proyecto es interesante porque el jugador debe saltar los obtaculos mejora
 
 ### Etapa 3: Problemas identificados
 
-el inicio del escenario comienza unicamente la primera vez que se pulsa el boton start, al comenzar de nuevo el escenario sigue donde se habia abandonado. Por otro lado me hubiera gustado añadir los obtaculos de forma aletaoria pero finalmente no lo ha conseguido.
+el inicio del escenario comienza unicamente la primera vez que se pulsa el botón start, al comenzar de nuevo el escenario sigue donde se habia abandonado. Por otro lado me hubiera gustado añadir los osbtáculos de forma aletaoria pero finalmente no lo he conseguido.
 
 
 
 # 4. Conclusiones 
-Me hubiera gustado añadir más obtáculos y más funciones para saltar de distintas formas u otras teclas para distinto movimientos
+Me hubiera gustado añadir más obtáculos y más funciones para saltar de distintas formas u otras teclas para distintos movimientos
 
 
 
